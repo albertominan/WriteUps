@@ -1,8 +1,9 @@
 # SanClemente-ForenseWindows
-Analisis forense de un equipo windows
+    
+   Analisis forense de un equipo windows
 
 
 ### Caso #2
 
-    ![image](.png)
+   ![image](mafia_color.gif.png)
 
