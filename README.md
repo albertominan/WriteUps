@@ -141,4 +141,40 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
    ![Imagen10](https://user-images.githubusercontent.com/117050752/220449790-db34ed1a-8d76-4536-90af-ce50ff9ec796.png)
 
 
-## 2.3 ¿?
+## 2.2 ¿En qué fecha y hora hizo Tanner login por última vez? (formato DD/MM/AAAA HH:mm:ss, poniendo la hora en la zona horaria UTC)
+
+   ``13-02-2022 18:26:22 CET --- 13-02-2022 17:26:22 UTC``
+   
+   En el disco vol3 - users - Tanner podemos ver la ultima conexión en formato CET que deberemos atrasar una hora para ponerla en el formato correcto
+   
+   ![Imagen11](https://user-images.githubusercontent.com/117050752/220450514-4b7c2c2e-1a11-471f-8d3d-7385ad7f85bb.png)
+
+
+## 2.3 ¿En qué fecha y hora se equivocó por última vez Tanner al meter su contraseña de usuario?
+
+   ``2022-02-13 18:06:36 CET``
+   
+   En OS Accounts y nuestro usuario Tanner vemos el último Password Fail Date
+   
+   ![Imagen12](https://user-images.githubusercontent.com/117050752/220451255-86e50e5c-abc3-4414-bafc-5e0574272edd.png)
+
+
+## 2.4 ¿Qué versión de Mozilla Firefox tenía Tanner instalado en su equipo? (Usar el formato major.minor, sin la letra “v” ni nada)
+
+   ``App Version:97.0``
+   
+   Vol3/Program Files (x86)/Mozilla Firefox - en el archivo install.log encontramos la versión del navegador
+   
+   ![Imagen13](https://user-images.githubusercontent.com/117050752/220451850-fe71389d-c5b5-4626-93ed-692b7708b5cd.png)
+
+
+## 2.5 Tanner ha estado mirando un vídeo sobre un terrorista. ¿Cuál es su nombre?
+
+   ``Thedore Kaczynski``
+   
+   En el Web History haciendo scroll vemos las busquedas relacionadas con el terrorista y su biografía
+   
+   ![Imagen15](https://user-images.githubusercontent.com/117050752/220452538-dd1810e8-eebe-4625-aa34-7dca49f64054.png)
+
+
+## 2.6 
