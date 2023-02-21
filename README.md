@@ -31,9 +31,13 @@ Captura de memoria RAM (DRIVERGAME-20220212-133941.dmp - 2GB).
 Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
 
 
-### Solución
 
-1.1 ¿Cuál es el nombre del equipo?
+
+# Solución
+
+
+
+## 1.1 ¿Cuál es el nombre del equipo?
     
    ``Drivergame``
    
@@ -43,7 +47,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
 ![Imagen1](https://user-images.githubusercontent.com/117050752/220441200-6bb3ee05-0e32-4657-8efa-1820fa5870c1.png)
 
 
-1.2 ¿Cuál es el hash de la contraseña del usuario Tanner?
+## 1.2 ¿Cuál es el hash de la contraseña del usuario Tanner?
 
    ``3ec585243c919f4217175e1918e07780``
     
@@ -55,3 +59,17 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
    
    
    ![Imagen2](https://user-images.githubusercontent.com/117050752/220443838-5bca3fd1-04a3-48bb-876d-e14ae56f822e.png)
+   
+   
+## 1.3 ¿Cuál es la contraseña correspondiente a dicho hash?
+
+  ``abc123.``
+  
+  Pasamos el hash de nuestro usuario por el crackstation...
+  
+   ![Imagen3](https://user-images.githubusercontent.com/117050752/220444715-156d4071-0417-4c65-b091-cd2e9c64b645.png)
+
+
+## 1.4 ¿Según el plugin consoles, ¿en qué dirección de memoria se encuentra la frase en la que Tanner pregunta a quién van a asesinar?
+
+   ``0x192050``
