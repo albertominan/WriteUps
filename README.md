@@ -174,7 +174,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
    
    En el Web History vemos las busquedas relacionadas con el terrorista y su biografía
    
-   ![](Imagen14.png)
+   ![](Imagen15.png)
 
 
 ## 2.6 Sabemos que Tanner se aloja en el Holiday Inn Manhattan Financial District, pero los mafiosos han alojado a Jean Paul en otro hotel y nuestro héroe tiene que ir a recogerlo allí. ¿Cuál es?
