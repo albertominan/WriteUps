@@ -172,9 +172,46 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
 
    ``Thedore Kaczynski``
    
-   En el Web History haciendo scroll vemos las busquedas relacionadas con el terrorista y su biografía
+   En el Web History vemos las busquedas relacionadas con el terrorista y su biografía
    
    ![Imagen15](https://user-images.githubusercontent.com/117050752/220452538-dd1810e8-eebe-4625-aa34-7dca49f64054.png)
 
 
-## 2.6 
+## 2.6 Sabemos que Tanner se aloja en el Holiday Inn Manhattan Financial District, pero los mafiosos han alojado a Jean Paul en otro hotel y nuestro héroe tiene que ir a recogerlo allí. ¿Cuál es?
+
+   ``Hilton Garden Inn``
+
+   También podemos ver las busquedas relacionadas con su hotel y el de jean paul
+   
+   ![Imagen16](https://user-images.githubusercontent.com/117050752/220457159-360fd60c-d721-4ba7-ab7b-e6860b310c76.png)
+
+
+## 2.7 ¿En qué lugar estará Tanner de vacaciones probablemente?
+
+   ``Cancún``
+   
+   De nuevo investigando las busquedas encontramos vacaciones en cancun
+   
+  ![Imagen17](https://user-images.githubusercontent.com/117050752/220457558-4f22b893-083a-4bd7-9cd6-a3e61e60188a.png)
+ 
+ 
+## 2.8 ¿En qué fecha y hora introdujo Tanner su pendrive por última vez en el equipo? (formato DD/MM/AAAA HH:mm:ss, poniendo la hora en la zona horaria CET)
+
+   ``12/02/2022 14:39:17 CET``
+
+   En USB Device Attached encontramos el pendrive
+   
+   ![Imagen18](https://user-images.githubusercontent.com/117050752/220458362-fb07813c-3e1f-4981-a343-74f7b84ad838.png)
+
+
+## 2.9 Tanner se descargó un libro en formato .doc ¿Cuál es el nombre completo del archivo?
+
+   ``La Vida En Los Bosques by Thoreau, Henry David (z-lib.org).doc``
+   
+   En Recent Documents vemos que solo hay un libro en formato .doc
+   
+   ![Imagen19](https://user-images.githubusercontent.com/117050752/220458716-855ea561-8a2a-46bc-a613-f3383fdb8a67.png)
+   
+   
+
+** Autor: **
