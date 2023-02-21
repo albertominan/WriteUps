@@ -44,7 +44,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
   Abriendo la imagen con autopsy podemos ver en Operating System Information el nombre del equipo.
 
 
-![Imagen1](https://user-images.githubusercontent.com/117050752/220441200-6bb3ee05-0e32-4657-8efa-1820fa5870c1.png)
+![Imagen01](imagen01.png)
 
 
 ## 1.2 ¿Cuál es el hash de la contraseña del usuario Tanner?
