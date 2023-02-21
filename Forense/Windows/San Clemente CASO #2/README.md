@@ -58,7 +58,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
    sacamos el hash del usuario Tanner
    
    
-   ![](images/Imagen1.png)
+   ![](images/Imagen2.png)
    
    
 ## 1.3 ¿Cuál es la contraseña correspondiente a dicho hash?
@@ -174,7 +174,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
    
    En el Web History vemos las busquedas relacionadas con el terrorista y su biografía
    
-   ![](Imagen15.png)
+   ![](Imagen14.png)
 
 
 ## 2.6 Sabemos que Tanner se aloja en el Holiday Inn Manhattan Financial District, pero los mafiosos han alojado a Jean Paul en otro hotel y nuestro héroe tiene que ir a recogerlo allí. ¿Cuál es?
@@ -183,7 +183,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
 
    También podemos ver las busquedas relacionadas con su hotel y el de jean paul
    
-   ![](Imagen16.png)
+   ![](Imagen15.png)
 
 
 ## 2.7 ¿En qué lugar estará Tanner de vacaciones probablemente?
@@ -192,7 +192,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
    
    De nuevo investigando las busquedas encontramos vacaciones en cancun
    
-  ![](Imagen17.png)
+  ![](Imagen16.png)
  
  
 ## 2.8 ¿En qué fecha y hora introdujo Tanner su pendrive por última vez en el equipo? (formato DD/MM/AAAA HH:mm:ss, poniendo la hora en la zona horaria CET)
@@ -201,7 +201,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
 
    En USB Device Attached encontramos el pendrive
    
-   ![](Imagen18.png)
+   ![](Imagen17.png)
 
 
 ## 2.9 Tanner se descargó un libro en formato .doc ¿Cuál es el nombre completo del archivo?
@@ -210,7 +210,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
    
    En Recent Documents vemos que solo hay un libro en formato .doc
    
-   ![](Imagen19.png)
+   ![](Imagen18.png)
    
    
 
