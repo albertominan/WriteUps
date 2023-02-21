@@ -44,7 +44,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
   Abriendo la imagen con autopsy podemos ver en Operating System Information el nombre del equipo.
 
 
-![](Imagen1.png)
+![](images/Imagen1.png)
 
 
 ## 1.2 ¿Cuál es el hash de la contraseña del usuario Tanner?
@@ -58,7 +58,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
    sacamos el hash del usuario Tanner
    
    
-   ![](Imagen2.png)
+   ![](images/Imagen1.png)
    
    
 ## 1.3 ¿Cuál es la contraseña correspondiente a dicho hash?
