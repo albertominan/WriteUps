@@ -214,4 +214,4 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
    
    
 
-**Autor:** (https://github.com/albertominan)
+**Autor:** [AlbertoMiñan](https://github.com/albertominan)
