@@ -73,3 +73,72 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
 ## 1.4 ¿Según el plugin consoles, ¿en qué dirección de memoria se encuentra la frase en la que Tanner pregunta a quién van a asesinar?
 
    ``0x192050``
+   
+   Usamos el comando consoles de volatility y vemos haciendo scroll la pregunta que hace Tanner
+   
+   ``python2.7 vol.py -f /home/beto/Downloads/DRIVERGAME-20220212-133941.dmp --profile=Win7SP1x64 consoles``
+   
+   ![Imagen4](https://user-images.githubusercontent.com/117050752/220445726-45880544-0382-475a-aaeb-664d925ffd74.png)
+
+
+## 1.5 ¿Cómo se llama el archivo de proceso por lotes en el que se lanza la aplicación de chat?
+
+   ``ChatApp2.bat``
+   
+   En este caso usaremos el comando cmdscan y encontramos nuestra aplicación de chat
+   
+   ``python2.7 vol.py -f /home/beto/Downloads/DRIVERGAME-20220212-133941.dmp --profile=Win7SP1x64 cmdscan``
+   
+   ![Imagen5](https://user-images.githubusercontent.com/117050752/220446716-2f23fe45-6381-4091-83e5-2b4e3b9355a9.png)
+
+
+## 1.6 ¿Cuál es el identificador del proceso que tiene como hijo a una aplicación Java?
+
+   ``Cmd.exe 	2956	Java.exe	4276	2956``
+   
+   Listamos los procesos con pstree y encontramos nuestro proceso padre e hijo
+   
+   ``python2.7 vol.py -f /home/beto/Downloads/DRIVERGAME-20220212-133941.dmp --profile=Win7SP1x64 pstree``
+   
+   ![Imagen6](https://user-images.githubusercontent.com/117050752/220447460-a3cd8061-afa3-42a1-a453-fd5232f1be09.png)
+
+
+## 1.7 ¿Cuál es el apellido que Castaldi menciona durante la conversación en la que se revela que van a matar al Presidente?
+
+   ``Maddox``
+   
+   Hacemos un dumpeo del proceso 3412 y luego lo analizamos con el siguiente comando:
+   
+   ``strings /home/beto/Desktop/3412.dmp -e l | grep "Castaldi" -A 20 -B 20``
+   
+   ![Imagen7](https://user-images.githubusercontent.com/117050752/220447915-f3f72bf2-38af-48aa-bf09-2c995beff7af.png)
+
+
+## 1.8 ¿Cuál es el nombre de archivo (incluida la extensión) con la imagen JPG que se abrió un rato antes de que Tanner tuviera que abandonar el equipo?
+
+   ``driver_you_are_the_wheelman.jpg.ink``
+   
+   Volvemos a autopsy y vemos los Recent Documents asociados a nuestro usuario Tanner
+   
+   ![Imagen8](https://user-images.githubusercontent.com/117050752/220448568-465d8b5a-e953-4515-abcf-11d296bdc998.png)
+
+
+## 1.9 ¿Cuál es el identificador de proceso con el que abrió dicha imagen?
+
+   ``2612``
+    
+   Repasando los procesos con pstree encontramos un proceso derivado de services.exe
+   
+  ![Imagen9](https://user-images.githubusercontent.com/117050752/220448980-bda95e03-a4f4-4ea2-8afe-cc958c850e2b.png)
+
+
+## 2.1 ¿Cuál es la versión del SO? (incluida la edición y el service pack si lo hubiera)
+    
+   ``Windows 7 Professional N Service Pack 1``
+    
+   Podríamos usar imageinfo de volatility en nuestra imagen pero desde autopsy ya nos dice la versión del sistema
+   
+   ![Imagen10](https://user-images.githubusercontent.com/117050752/220449790-db34ed1a-8d76-4536-90af-ce50ff9ec796.png)
+
+
+## 2.3 ¿?
