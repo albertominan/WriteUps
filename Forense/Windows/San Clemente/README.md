@@ -44,7 +44,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
   Abriendo la imagen con autopsy podemos ver en Operating System Information el nombre del equipo.
 
 
-![](images/Imagen1.png)
+![](Forense/Windows/San Clemente/Images/Imagen1.png)
 
 
 ## 1.2 ¿Cuál es el hash de la contraseña del usuario Tanner?
@@ -58,7 +58,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
    sacamos el hash del usuario Tanner
    
    
-   ![](images/Imagen1.png)
+   ![](Forense/Windows/San Clemente/Images/Imagen2.png)
    
    
 ## 1.3 ¿Cuál es la contraseña correspondiente a dicho hash?
@@ -67,7 +67,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
   
   Pasamos el hash de nuestro usuario por el crackstation...
   
-   ![](Imagen3.png)
+   ![](Forense/Windows/San Clemente/Images/Imagen3.png)
 
 
 ## 1.4 ¿Según el plugin consoles, ¿en qué dirección de memoria se encuentra la frase en la que Tanner pregunta a quién van a asesinar?
@@ -78,7 +78,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
    
    ``python2.7 vol.py -f /home/beto/Downloads/DRIVERGAME-20220212-133941.dmp --profile=Win7SP1x64 consoles``
    
-   ![](Imagen4.png)
+   ![](Forense/Windows/San Clemente/Images/Imagen4.png)
 
 
 ## 1.5 ¿Cómo se llama el archivo de proceso por lotes en el que se lanza la aplicación de chat?
@@ -89,7 +89,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
    
    ``python2.7 vol.py -f /home/beto/Downloads/DRIVERGAME-20220212-133941.dmp --profile=Win7SP1x64 cmdscan``
    
-   ![](Imagen5.png)
+   ![](Forense/Windows/San Clemente/Images/Imagen5.png)
 
 
 ## 1.6 ¿Cuál es el identificador del proceso que tiene como hijo a una aplicación Java?
@@ -100,7 +100,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
    
    ``python2.7 vol.py -f /home/beto/Downloads/DRIVERGAME-20220212-133941.dmp --profile=Win7SP1x64 pstree``
    
-   ![](Imagen6.png)
+   ![](Forense/Windows/San Clemente/Images/Imagen6.png)
 
 
 ## 1.7 ¿Cuál es el apellido que Castaldi menciona durante la conversación en la que se revela que van a matar al Presidente?
@@ -111,7 +111,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
    
    ``strings /home/beto/Desktop/3412.dmp -e l | grep "Castaldi" -A 20 -B 20``
    
-   ![](Imagen7.png)
+   ![](Forense/Windows/San Clemente/Images/Imagen7.png)
 
 
 ## 1.8 ¿Cuál es el nombre de archivo (incluida la extensión) con la imagen JPG que se abrió un rato antes de que Tanner tuviera que abandonar el equipo?
@@ -120,7 +120,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
    
    Volvemos a autopsy y vemos los Recent Documents asociados a nuestro usuario Tanner
    
-   ![](Imagen8.png)
+   ![](Forense/Windows/San Clemente/Images/Imagen8.png)
 
 
 ## 1.9 ¿Cuál es el identificador de proceso con el que abrió dicha imagen?
@@ -129,7 +129,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
     
    Repasando los procesos con pstree encontramos un proceso derivado de services.exe
    
-  ![](Imagen9.png)
+  ![](Forense/Windows/San Clemente/Images/Imagen9.png)
 
 
 ## 2.1 ¿Cuál es la versión del SO? (incluida la edición y el service pack si lo hubiera)
@@ -138,7 +138,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
     
    Podríamos usar imageinfo de volatility en nuestra imagen pero desde autopsy ya nos dice la versión del sistema
    
-   ![](Imagen10.png)
+   ![](Forense/Windows/San Clemente/Images/Imagen10.png)
 
 
 ## 2.2 ¿En qué fecha y hora hizo Tanner login por última vez? (formato DD/MM/AAAA HH:mm:ss, poniendo la hora en la zona horaria UTC)
@@ -147,7 +147,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
    
    En el disco vol3 - users - Tanner podemos ver la ultima conexión en formato CET que deberemos atrasar una hora para ponerla en el formato correcto
    
-   ![](Imagen11.png)
+   ![](Forense/Windows/San Clemente/Images/Imagen11.png)
 
 
 ## 2.3 ¿En qué fecha y hora se equivocó por última vez Tanner al meter su contraseña de usuario?
@@ -156,7 +156,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
    
    En OS Accounts y nuestro usuario Tanner vemos el último Password Fail Date
    
-   ![](Imagen12.png)
+   ![](Forense/Windows/San Clemente/Images/Imagen12.png)
 
 
 ## 2.4 ¿Qué versión de Mozilla Firefox tenía Tanner instalado en su equipo? (Usar el formato major.minor, sin la letra “v” ni nada)
@@ -165,7 +165,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
    
    Vol3/Program Files (x86)/Mozilla Firefox - en el archivo install.log encontramos la versión del navegador
    
-   ![](Imagen13.png)
+   ![](Forense/Windows/San Clemente/Images/Imagen13.png)
 
 
 ## 2.5 Tanner ha estado mirando un vídeo sobre un terrorista. ¿Cuál es su nombre?
@@ -174,7 +174,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
    
    En el Web History vemos las busquedas relacionadas con el terrorista y su biografía
    
-   ![](Imagen15.png)
+   ![](Forense/Windows/San Clemente/Images/Imagen14.png)
 
 
 ## 2.6 Sabemos que Tanner se aloja en el Holiday Inn Manhattan Financial District, pero los mafiosos han alojado a Jean Paul en otro hotel y nuestro héroe tiene que ir a recogerlo allí. ¿Cuál es?
@@ -183,7 +183,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
 
    También podemos ver las busquedas relacionadas con su hotel y el de jean paul
    
-   ![](Imagen16.png)
+   ![](Forense/Windows/San Clemente/Images/Imagen15.png)
 
 
 ## 2.7 ¿En qué lugar estará Tanner de vacaciones probablemente?
@@ -192,7 +192,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
    
    De nuevo investigando las busquedas encontramos vacaciones en cancun
    
-  ![](Imagen17.png)
+  ![](Forense/Windows/San Clemente/Images/Imagen16.png)
  
  
 ## 2.8 ¿En qué fecha y hora introdujo Tanner su pendrive por última vez en el equipo? (formato DD/MM/AAAA HH:mm:ss, poniendo la hora en la zona horaria CET)
@@ -201,7 +201,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
 
    En USB Device Attached encontramos el pendrive
    
-   ![](Imagen18.png)
+   ![](Forense/Windows/San Clemente/Images/Imagen17.png)
 
 
 ## 2.9 Tanner se descargó un libro en formato .doc ¿Cuál es el nombre completo del archivo?
@@ -210,7 +210,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
    
    En Recent Documents vemos que solo hay un libro en formato .doc
    
-   ![](Imagen19.png)
+   ![](Forense/Windows/San Clemente/Images/Imagen18.png)
    
    
 
