@@ -183,7 +183,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
 
    También podemos ver las busquedas relacionadas con su hotel y el de jean paul
    
-   ![](Imagen15.png)
+   ![](Imagen16.png)
 
 
 ## 2.7 ¿En qué lugar estará Tanner de vacaciones probablemente?
@@ -192,7 +192,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
    
    De nuevo investigando las busquedas encontramos vacaciones en cancun
    
-  ![](Imagen16.png)
+  ![](Imagen17.png)
  
  
 ## 2.8 ¿En qué fecha y hora introdujo Tanner su pendrive por última vez en el equipo? (formato DD/MM/AAAA HH:mm:ss, poniendo la hora en la zona horaria CET)
@@ -201,7 +201,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
 
    En USB Device Attached encontramos el pendrive
    
-   ![](Imagen17.png)
+   ![](Imagen18.png)
 
 
 ## 2.9 Tanner se descargó un libro en formato .doc ¿Cuál es el nombre completo del archivo?
@@ -210,7 +210,7 @@ Imagen disco duro (ExamenForense.img.zip - 7.1GB --> descomprimido 32,0 GB)
    
    En Recent Documents vemos que solo hay un libro en formato .doc
    
-   ![](Imagen18.png)
+   ![](Imagen19.png)
    
    
 
