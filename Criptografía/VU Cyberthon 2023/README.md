@@ -16,10 +16,10 @@
 
 ### Solución
     
-    ``Drivergame``
+    ``VU{cyberthon}``
    
-  Abriendo la imagen con autopsy podemos ver en Operating System Information el nombre del equipo.
+  La descripción del reto nos habla de "Brainfuck", así que lo llevamos a un decoder online.
 
 
-![](Imagen1.png)
+![](2023-02-25_122928.png)
 
