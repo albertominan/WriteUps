@@ -21,4 +21,4 @@
   Nos descargamos la foto y encontramos la flag en los metadatos con exiftool.
 
 
-![](2023-02-25_122928.png)
+![](2023-02-25_123315.png)
