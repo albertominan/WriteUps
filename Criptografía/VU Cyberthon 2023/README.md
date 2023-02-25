@@ -15,12 +15,8 @@
 
 
 ### Solución
-
-
-
-## 1.1 ¿Cuál es el nombre del equipo?
     
-   ``Drivergame``
+    ``Drivergame``
    
   Abriendo la imagen con autopsy podemos ver en Operating System Information el nombre del equipo.
 
