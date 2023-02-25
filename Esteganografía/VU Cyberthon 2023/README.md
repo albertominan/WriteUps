@@ -4,11 +4,11 @@
 
   ![](2023-02-25_141510.png)
   
-## Simple Web
+## Find Location
 
     
 
-   ![](2023-02-25_123049.png)
+   ![](2023-02-25_123150.png)
 
 
 
@@ -18,7 +18,7 @@
     
     ``VU{cyberthon}``
    
-  La descripción del reto nos habla de "Brainfuck", así que lo llevamos a un decoder online.
+  Nos descargamos la foto y encontramos la flag en los metadatos con exiftool.
 
 
 ![](2023-02-25_122928.png)
