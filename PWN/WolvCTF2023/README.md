@@ -2,14 +2,12 @@
     
   
 ![](1wolv.png)
-  
-## 
-
-    
-![](2wolv.png)
+ 
+ 
+## Baby-pwn
 
 
-![](4wolv.png)
+![](1baby-pwn.png)
 
 
 ### Solución
@@ -19,12 +17,8 @@
   Podemos ver en los strings del ejecutable y en el análisis dinámico la flag.
 
 
-![](6baby-re.png)
+![](Buffer overflow.png
 
-
-
-
-![](5baby-re.png)
 
 
 
