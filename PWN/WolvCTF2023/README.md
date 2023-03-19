@@ -12,12 +12,11 @@
 
 ### Solución
     
-    ``wctf{Oh10_Stat3_1s_Smelly!}``
+    ``wctf{W3lc0me_t0_c0stc0_I_L0v3_Y0u!}``
    
-  Podemos ver en los strings del ejecutable y en el análisis dinámico la flag.
+  Analizando el código vemos que si le pasamos un input de 48 caracteres sucederá un  desbordamiento del buffer.
 
-
-![](Buffer overflow.png
+![](Bufferoverflow.png)
 
 
 
