@@ -6,28 +6,43 @@
 ## Baby-re
 
     
-![](2wolv.png)
+![](titulo.png)
 
 
-El programa nos hace una pregunta la cual la compara con la entrada correcta para darnos la flag.
+Esta vez se nos abre una página que contiene un botón.
 
 
-![](4wolv.png)
+![](1.png)
 
 
 ### Solución
     
-    ``wctf{Oh10_Stat3_1s_Smelly!}``
+    ``wctf{y0u_h4v3_b33n_my_f13nd___th4t_1n_1t53lf_1s_4_tr3m3nd0u5_th1ng}``
    
-  Podemos ver en los strings del ejecutable y en el análisis dinámico la flag.
+  Investigaremos el funcionamiento de la página mirando el código fuente y usando burpsuite.
 
 
-![](6baby-re.png)
+![](2.png)
 
 
 
 
-![](5baby-re.png)
+![](3.png)
+
+
+
+![](4.png)
+
+
+
+
+![](5.png)
+
+
+
+
+
+![](6.png)
 
 
 
