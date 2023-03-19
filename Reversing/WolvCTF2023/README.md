@@ -2,13 +2,13 @@
     
   
 
-  ![](1wolv.tif)
+  ![](1wolv.png)
   
 ## 
 
     
 
-   ![](2wolv.tif)
+   ![](2wolv.png)
 
 
 
