@@ -3,10 +3,13 @@
   
 ![](1wolv.png)
   
-## 
+## Baby-re
 
     
 ![](2wolv.png)
+
+
+El programa nos hace una pregunta la cual la compara con la entrada correcta para darnos la flag.
 
 
 ![](4wolv.png)
