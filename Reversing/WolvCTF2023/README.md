@@ -1,17 +1,15 @@
 # WolvCTF 2023
     
   
-
-  ![](1wolv.png)
+![](1wolv.png)
   
 ## 
 
     
+![](2wolv.png)
 
-   ![](2wolv.png)
 
-
-   ![](4wolv.png)
+![](4wolv.png)
 
 
 ### Solución
