@@ -16,12 +16,12 @@
 
 ### Solución
     
-    ``VU{d5bc0961009b25633293206cde4ca1e0}``
+    ``wctf{Oh10_Stat3_1s_Smelly!}``
    
-  Nos descargamos la foto y encontramos la flag en los metadatos con exiftool.
+  Podemos ver en los strings del ejecutable y en el análisis dinámico la flag.
 
 
-![](2023-02-25_123315.png)
+![](6baby-re.png)
 
 
 
