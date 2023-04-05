@@ -1,5 +1,9 @@
 # Write-Ups
 
+<p align="center">
+  <img src="https://github.com/UchaCTF/WriteUps/blob/8cc7c994164c2aa4031ad6cb107eaf0284246896/Logo.v2.peque.jpg">
+</p>
+
 ## Herramientas utilizadas:
 
 # Criptografía
