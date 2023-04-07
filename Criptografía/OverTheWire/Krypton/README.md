@@ -131,7 +131,36 @@ https://www.dcode.fr/
   
   ![](https://github.com/albertominan/WriteUps/blob/772b1204dcb0777f7f001955dd04ee1293eda07c/Criptograf%C3%ADa/OverTheWire/Krypton/Capturas/krypton6ti.png)
     
-  ![](https://github.com/albertominan/WriteUps/blob/21a2eea56521c2b9de1e5792e67d8c4a8b23b23d/Criptograf%C3%ADa/OverTheWire/Krypton/Capturas/krypton1sol.png)
+  ![](https://github.com/albertominan/WriteUps/blob/21a2eea56521c2b9de1e5792e67d8c4a8b23b23d/Criptograf%C3%ADa/OverTheWire/Krypton/Capturas/krypton6.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/21a2eea56521c2b9de1e5792e67d8c4a8b23b23d/Criptograf%C3%ADa/OverTheWire/Krypton/Capturas/krypton6sol.png)
+  
+    Testeamos el funcionamiento del reto y vemos que es similar al reto 2.
+  
+  ![](https://github.com/albertominan/WriteUps/blob/21a2eea56521c2b9de1e5792e67d8c4a8b23b23d/Criptograf%C3%ADa/OverTheWire/Krypton/Capturas/krypton6sol1.png)
+  
+    Utilizamos la función de encriptado creando 3 archivos txt
+    en el primero metemos el siguiente texto: AAAAAAAAAAA
+    en el segundo metemos el siguiente texto: BBBBBBBBBBB
+    en el tercero metemos el siguiente texto: CCCCCCCCCCC
+    
+    vemos que claramente hay un patrón que se repite, 
+    la letra del texto 3 es la siguiente letra del 2 y la del 2 la del 1: E F G , I J K etc.
+  
+  ![](https://github.com/albertominan/WriteUps/blob/21a2eea56521c2b9de1e5792e67d8c4a8b23b23d/Criptograf%C3%ADa/OverTheWire/Krypton/Capturas/krypton6sol2.png)
+     
+     Hacemos la misma operación pero con un texto más grande en busca de patrones
+     y notamos que se repiten después de cierta longitud.
+     
+  ![](https://github.com/albertominan/WriteUps/blob/21a2eea56521c2b9de1e5792e67d8c4a8b23b23d/Criptograf%C3%ADa/OverTheWire/Krypton/Capturas/krypton6sol3.png)
+
+     Sabiendo que a cada caracter en los textos anteriores se le añade +1 con respecto al otro
+     usaremos ese concepto para determinar el número de posiciones cambiadas con el texto de "A"
+     y finalmente cambiamos las posiciones en la clave del archivo "krypton7" y sacamos la clave
+     final "LSFRISNOTRANDOM" LSFR IS NOT RANDOM. 
+     
+     
+  ![](https://github.com/albertominan/WriteUps/blob/21a2eea56521c2b9de1e5792e67d8c4a8b23b23d/Criptograf%C3%ADa/OverTheWire/Krypton/Capturas/krypton6sol4.png)
 
 
 
