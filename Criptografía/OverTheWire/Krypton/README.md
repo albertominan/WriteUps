@@ -1,6 +1,6 @@
 # OverTheWire
     
-## Los wargames de krypton se basan en una serie de retos de criptografía que van desde lo mas básico hasta cierto grado de dificultad pasando de criptografía obsoleta hasta criptogrfía mas moderna.
+## Los wargames de krypton se basan en una serie de retos de criptografía que van desde lo más básico hasta cierto grado de dificultad pasando de criptografía obsoleta hasta criptografía mas moderna.
 
 
 ## Herramientas utilizadas: 
