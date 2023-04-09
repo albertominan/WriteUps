@@ -61,11 +61,31 @@
   
   ### natas 5-6
 
-    El sexto nivel se trata de .
+    El sexto nivel se trata de descubrir como funciona una función la cual nos proporciona la contraseña si introducimos el "secret" correcto.
 
   ![](https://github.com/albertominan/WriteUps/blob/376a38963afc7f5c894e3646041819fedd789139/WEB/Overthewire/natas/capturas/natas6.png)
 
   ![](https://github.com/albertominan/WriteUps/blob/376a38963afc7f5c894e3646041819fedd789139/WEB/Overthewire/natas/capturas/natas6sol.png)
   
   ![](https://github.com/albertominan/WriteUps/blob/376a38963afc7f5c894e3646041819fedd789139/WEB/Overthewire/natas/capturas/natas6sol1.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/376a38963afc7f5c894e3646041819fedd789139/WEB/Overthewire/natas/capturas/natas6sol2.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas6sol3.png)
+  
+  
+  ### natas 6-7
+
+    El septimo nivel se trata de inyectar codigo en el path  .
+
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas7.png)
+
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas7sol.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas7sol1.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas7sol2.png)
+  
+  
+  
 **Autor:** [AlbertoMiñan](https://github.com/albertominan)
