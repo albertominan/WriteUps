@@ -2,17 +2,17 @@
     
 ## Los wargames de Natas se basan en una serie de retos de hacking web que van progresando en dificultad y usando diferentes técnicas de explotación.
 
-![](https://github.com/albertominan/WriteUps/blob/376a38963afc7f5c894e3646041819fedd789139/WEB/Overthewire/natas/capturas/natas.png)
+![](https://github.com/albertominan/WriteUps/blob/45d52a9ac58120721e333857c8dd2be25cf3cf19/WEB/Overthewire/natas/capturas/natas.png)
   
 ### natas 0-1
 
     El primer nivel se trata de descubrir en el código fuente la contraseña del siguiente.
 
-  ![](https://github.com/albertominan/WriteUps/blob/376a38963afc7f5c894e3646041819fedd789139/WEB/Overthewire/natas/capturas/natas0.png)
+  ![](https://github.com/albertominan/WriteUps/blob/45d52a9ac58120721e333857c8dd2be25cf3cf19/WEB/Overthewire/natas/capturas/natas0.png)
 
-  ![](https://github.com/albertominan/WriteUps/blob/376a38963afc7f5c894e3646041819fedd789139/WEB/Overthewire/natas/capturas/natas0sol.png)
+  ![](https://github.com/albertominan/WriteUps/blob/45d52a9ac58120721e333857c8dd2be25cf3cf19/WEB/Overthewire/natas/capturas/natas0sol.png)
   
-  ![](https://github.com/albertominan/WriteUps/blob/376a38963afc7f5c894e3646041819fedd789139/WEB/Overthewire/natas/capturas/natas0sol1.png)
+  ![](https://github.com/albertominan/WriteUps/blob/45d52a9ac58120721e333857c8dd2be25cf3cf19/WEB/Overthewire/natas/capturas/natas0sol1.png)
 
 ### natas 1-2
 
