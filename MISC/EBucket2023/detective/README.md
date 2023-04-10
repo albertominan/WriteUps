@@ -1,31 +1,26 @@
-# WolvCTF 2023
+# EBucketCTF 2023
     
   
 ![](https://github.com/albertominan/WriteUps/blob/e0823ae7827c759926ee0b9c9bc524d4bf7c5b94/WEB/EBucket-2023/Capturas/portada.png)
   
-## REVERSING
+## MISC
 
     
-![](https://github.com/albertominan/WriteUps/blob/feb74785831a27d3d5a4b49677d8d9359e5767ef/Reversing/EBucket2023/schematic/capturas/1.png)
+![](https://github.com/albertominan/WriteUps/blob/db137b85b8aca962125578daa378e4bb18536043/MISC/EBucket2023/detective/capturas/1.png)
 
 
-Nos piden contar los dispensadores que usa el recurso del cañon en la app.
+Nos dicen que se ha limpiado la escena del crimen y nos dan una foto con fondo blanco.
 
 
 ### Solución
     
-    bucket{2238}
+    bucket{r3pl4c3_c0L0RS!!}
    
-  Descargamos la app, buscamos por scripts y mediante un script sencillo creamos un contador para localizar los recursos usados.
+  descargamos la foto y la analizamos con la herramienta [StegOnline](https://stegonline.georgeom.net/upload).
     
-   [Script](https://github.com/albertominan/Hacking/blob/bd97fb5d48e8086e0c4e1810615be5ce3ef4a735/scripts/contador/README.md)
 
-![](https://github.com/albertominan/WriteUps/blob/feb74785831a27d3d5a4b49677d8d9359e5767ef/Reversing/EBucket2023/schematic/capturas/2.png)
+![](https://github.com/albertominan/WriteUps/blob/db137b85b8aca962125578daa378e4bb18536043/MISC/EBucket2023/detective/capturas/2.png)
 
-![](https://github.com/albertominan/WriteUps/blob/feb74785831a27d3d5a4b49677d8d9359e5767ef/Reversing/EBucket2023/schematic/capturas/3.png)
-
-![](https://github.com/albertominan/WriteUps/blob/feb74785831a27d3d5a4b49677d8d9359e5767ef/Reversing/EBucket2023/schematic/capturas/4.png)
-
-
+![](https://github.com/albertominan/WriteUps/blob/db137b85b8aca962125578daa378e4bb18536043/MISC/EBucket2023/detective/capturas/3.png)
 
 **Autor:** [AlbertoMiñan](https://github.com/albertominan)
