@@ -1,33 +1,30 @@
 # WolvCTF 2023
     
   
-![](1wolv.png)
+![](https://github.com/albertominan/WriteUps/blob/e0823ae7827c759926ee0b9c9bc524d4bf7c5b94/WEB/EBucket-2023/Capturas/portada.png)
   
-## Baby-re
+## REVERSING
 
     
-![](2wolv.png)
+![](https://github.com/albertominan/WriteUps/blob/feb74785831a27d3d5a4b49677d8d9359e5767ef/Reversing/EBucket2023/schematic/capturas/1.png)
 
 
-El programa nos hace una pregunta la cual la compara con la entrada correcta para darnos la flag.
-
-
-![](4wolv.png)
+Nos piden contar los dispensadores que usa el recurso del cañon en la app.
 
 
 ### Solución
     
-    ``wctf{Oh10_Stat3_1s_Smelly!}``
+    bucket{2238}
    
-  Podemos ver en los strings del ejecutable y en el análisis dinámico la flag.
+  Descargamos la app, buscamos por scripts y mediante un script sencillo creamos un contador para localizar los recursos usados.
+    
+   [Script](https://github.com/albertominan/Hacking/blob/bd97fb5d48e8086e0c4e1810615be5ce3ef4a735/scripts/contador/README.md)
 
+![](https://github.com/albertominan/WriteUps/blob/feb74785831a27d3d5a4b49677d8d9359e5767ef/Reversing/EBucket2023/schematic/capturas/2.png)
 
-![](6baby-re.png)
+![](https://github.com/albertominan/WriteUps/blob/feb74785831a27d3d5a4b49677d8d9359e5767ef/Reversing/EBucket2023/schematic/capturas/3.png)
 
-
-
-
-![](5baby-re.png)
+![](https://github.com/albertominan/WriteUps/blob/feb74785831a27d3d5a4b49677d8d9359e5767ef/Reversing/EBucket2023/schematic/capturas/4.png)
 
 
 
