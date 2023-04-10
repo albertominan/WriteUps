@@ -76,7 +76,7 @@
   
   ### natas 6-7
 
-    El septimo nivel se trata de inyectar codigo en el path  .
+    El septimo nivel se trata de inyectar codigo en el path.
 
   ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas7.png)
 
@@ -87,5 +87,151 @@
   ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas7sol2.png)
   
   
+  
+  ### natas 7-8
+
+    El octavo nivel se trata de inyectar el secreto correcto descifrandolo en cyberchef.
+
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas8.png)
+
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas8sol.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas8sol1.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas8sol2.png)
+  
+  
+  ### natas 8-9
+
+    El noveno nivel se trata de inyectar codigo en la url.
+
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas9.png)
+
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas9sol.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas9sol1.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas9sol2.png)
+ 
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas9sol3.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas9sol4.png)
+  
+  
+  ### natas 9-10
+
+    El decimo nivel se trata de inyectar codigo en el path igual que el anterior pero con restricciones.
+
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas10.png)
+
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas10sol.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas10sol1.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas10sol2.png)
+ 
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas10sol3.png)
+  
+  
+  ### natas 10-11
+
+    El nivel 11 se trata de encriptación XOR.
+
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas11.png)
+
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas11sol.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas11sol1.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas11sol2.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas11sol3.png)
+
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas11sol4.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas11sol5.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas11sol6.png)
+  
+  
+  ### natas 11-12
+
+    El nivel 12 se trata de LFI.
+
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas12.png)
+
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas12sol.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas12sol1.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas12sol2.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas12sol3.png)
+
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas12sol4.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas12sol5.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas12sol6.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas12sol7.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas12sol8.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas12sol9.png)
+  
+  
+  ### natas 12-13
+
+    El nivel 13 se trata de LFI con restricciones.
+
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas13.png)
+
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas13sol.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas13sol1.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas13sol2.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas13sol3.png)
+
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas13sol4.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas13sol5.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas13sol6.png)
+  
+  
+  ### natas 13-14
+
+    El nivel 14 se trata de SQL injection.
+
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas14.png)
+
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas14sol.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas14sol1.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas14sol2.png)
+  
+  
+### natas 14-15
+
+    El nivel 15 se trata de sqlmap.
+
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas15.png)
+
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas15sol.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas15sol1.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas15sol2.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas15sol3.png)
+
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas15sol4.png)
+  
+  ![](https://github.com/albertominan/WriteUps/blob/5df91acc201154f3bb7abf43c45481ea5e09b6f1/WEB/Overthewire/natas/capturas/natas15sol5.png)
+ 
   
 **Autor:** [AlbertoMiñan](https://github.com/albertominan)
